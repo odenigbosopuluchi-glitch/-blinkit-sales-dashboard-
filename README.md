@@ -14,7 +14,7 @@ A comprehensive data analytics project transforming raw grocery transaction data
 
 ## 📸 Dashboard Preview
 ![Blinkit Dashboard Overview](blinkit%20sales%20dashboard.jpeg)  
-(Note: Keep this name exactly as is. We will upload your dashboard image file soon!)
+
 
 ---
 
