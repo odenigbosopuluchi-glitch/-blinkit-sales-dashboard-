@@ -55,4 +55,4 @@ A comprehensive data analytics project transforming raw grocery transaction data
 2. Open the provided .pbix file using *Power BI Desktop* to view the live models, data relationships, and interactive visualization charts.
 
 ---
-Maintained and built by [Your Name]. Connect with me on [Your LinkedIn Link] or check out my other repositories.
+Maintained and built by odenigbo simon. Connect with me on https://www.linkedin.com/in/odenigbo-simon-81a812258?utm_source=share_via&utm_content=profile&utm_medium=member_android or check out my other repositories.
